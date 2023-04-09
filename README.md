@@ -1,4 +1,4 @@
-# C++ lab sheet Solutions 😌✌🏻
+# Lab sheet Solutions 😌✌🏻
 
 <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="277px" width="500px">
 
