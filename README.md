@@ -1,7 +1,7 @@
 # Lab sheet Solutions 😌✌🏻
 
 Welcome to my lab sheets repository! <br>This repository contains lab sheets that I've completed, 
-<b>(Intake 39 - General Sir John Kotelawala Defence University)</b>.<br> 
+<b>(Intake 39 - KDU)</b>.<br> 
 
 #### Includes
 <ul>
@@ -9,8 +9,8 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
       <b>1st year</b>
       <ul>
          <li><b>1st Semester</b> - C++</li>
-            <dl>CS1101 - Programming Laboratory</dl>
-            <dl>CS1012 - Fundamentals of Programming</dl>
+            <dl>CS1101 - Programming Laboratory<br>
+            CS1012 - Fundamentals of Programming</dl>
          <li><b>2nd Semester</b> - Java</li>
       </ul>
    </li>
@@ -35,7 +35,7 @@ To use these lab sheets, simply download or clone this repository to your local 
 If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
-<img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="125px" width="200px">
+<!-- <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="125px" width="200px"> -->
 
 
 ## Note
