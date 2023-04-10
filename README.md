@@ -4,9 +4,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 <b>(Intake 39 - KDU)</b>.
 </p>
 
-<br> 
 <img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%">
-<br>
 
 #### Includes
 <ul>
@@ -30,6 +28,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 </ul>   
 
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
+<br><br>
 
 ## Usage
 
@@ -41,6 +40,7 @@ To use these lab sheets, simply download or clone this repository to your local 
 </p>
 
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
+<br><br>
 
 ## Contributing
 
@@ -52,6 +52,7 @@ If you have your own lab sheets that you'd like to contribute, please feel free 
 </p>
 
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
+<br><br>
 
 ## Note
 
