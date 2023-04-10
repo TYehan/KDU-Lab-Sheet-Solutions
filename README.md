@@ -6,11 +6,12 @@ Welcome to my lab sheets repository! This repository contains lab sheets that I 
 ## Usage
 
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
 ## Contributing
 
 If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
-
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
 <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="125px" width="200px">
 
