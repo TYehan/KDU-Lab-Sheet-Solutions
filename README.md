@@ -12,6 +12,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
             <dl>CS1101 - Programming Laboratory<br>
             CS1012 - Fundamentals of Programming</dl>
          <li><b>2nd Semester</b> - Java</li>
+         <dl>CS1073 - Object Oriented Programming I</dl>
       </ul>
    </li>
    <!-- <li>
