@@ -35,7 +35,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 <br>
 <img src="https://tenor.com/view/fox-coffee-smell-feel-it-cute-gif-16230297.gif" align="left" height="20%" width="20%">
 <br>
-<p align="right" justify="center">
+<p align="right">
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
 </p>
 
