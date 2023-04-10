@@ -2,7 +2,7 @@
 
 Welcome to my lab sheets repository! This repository contains lab sheets that I created during my studies <b>(Intake 39)</b>.
 
->>>>>> >>>>>> >>>>> >>>>>> >>>>>>>> >>>>>> >>>>>>> >>>>>>> >>>>>>>> >>>>> >>>>>>>>> >>>>>> >>>>>> >>>
+==>>>>>> >>>>>> >>>>> >>>>>> >>>>>>>> >>>>>> >>>>>>> >>>>>>> >>>>>>>> >>>>> >>>>>>>>> >>>>>> >>>>>> ==
 
 ## Usage
 
@@ -20,7 +20,7 @@ CS1012 - Fundamentals of Programming <br>
    in <b>1st year - 1st Semester</b> <br>
 (General Sir John Kotelawala Defence University) 
 
-### Note
+## Note
 The purpose of this repository is to provide a helpful resource for other students who are studying similar subjects. However, I want to emphasize that copying these lab sheets is not encouraged. These sheets are intended to be used as a reference and guide, and students should try to complete the exercises on their own.
 
 If you have any questions or concerns about this repository, please feel free to contact me  @TYehan
