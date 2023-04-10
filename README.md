@@ -33,7 +33,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 
 ## Usage
 
-<p align="right" justify="left">
+<p align="right" justify="center">
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
 </p>
 <br>
