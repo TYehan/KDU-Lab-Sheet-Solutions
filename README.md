@@ -2,7 +2,7 @@
 
 Welcome to my lab sheets repository! This repository contains lab sheets that I created during my studies <b>(Intake 39)</b>.
   
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>-
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
 ## Usage
 
