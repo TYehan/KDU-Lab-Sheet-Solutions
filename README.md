@@ -1,6 +1,6 @@
 # Lab sheet Solutions 😌✌🏻
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="25%" width="25%">
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%">
 
 Welcome to my lab sheets repository! <br>This repository contains lab sheets that I've completed, 
 <b>(Intake 39 - KDU)</b>.<br> 
@@ -30,24 +30,21 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 
 ## Usage
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="25%" width="25%"><br>
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%"><br>
 
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
 ## Contributing
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="25%" width="25%"><br>
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%"><br>
 
 If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
 
-<!-- <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="125px" width="200px"> -->
-
-
 ## Note
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="25%" width="25%"><br>
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%"><br>
 
 The purpose of this repository is to provide a helpful resource for other students who are studying similar subjects. However, I want to emphasize that copying these lab sheets is not encouraged. These sheets are intended to be used as a reference and guide, and students should try to complete the exercises on their own.
 
