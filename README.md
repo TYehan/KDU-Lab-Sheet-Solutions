@@ -3,7 +3,7 @@
 Welcome to my lab sheets repository! <br>This repository contains lab sheets that I've completed, 
 <b>(Intake 39 - KDU)</b>.<br> 
 
-<img src="https://tenor.com/5ZQh.gif" align="right" height="200px" width="200px">
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="200px" width="200px">
 
 #### Includes
 <ul>
