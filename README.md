@@ -12,7 +12,7 @@ To use these lab sheets, simply download or clone this repository to your local 
 
 ## Contributing
 
-If you would like to contribute to this repository by adding your own lab sheets or improving existing ones, please feel free to create a pull request. I would be happy to review your changes and merge them if they fit with the purpose of this repository. However, please ensure that any contributions are original work and not copied from elsewhere.
+If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
 
 
 <img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="125px" width="200px">
