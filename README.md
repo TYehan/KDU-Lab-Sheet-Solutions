@@ -1,10 +1,9 @@
 # Lab sheet Solutions 😌✌🏻
 
-<img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="277px" width="500px">
+<img src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" align="right" height="127px" width="350px">
 
 <br>
 
-# Lab Sheets
 
 Welcome to my lab sheets repository! This repository contains lab sheets that I created during my studies <b>(Intake 39)</b>.
 
