@@ -30,7 +30,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 
 ## Usage
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="left" height="25%" width="25%">
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="25%" width="25%">
 
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
@@ -53,4 +53,4 @@ The purpose of this repository is to provide a helpful resource for other studen
 
 If you have any questions or concerns about this repository, please feel free to contact me @TYehan
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="center" height="30%" width="30%">
+<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="left" height="20%" width="20%">
