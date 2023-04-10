@@ -3,6 +3,8 @@
 Welcome to my lab sheets repository! <br>This repository contains lab sheets that I've completed, 
 <b>(Intake 39 - KDU)</b>.<br> 
 
+<div class="tenor-gif-embed" data-postid="13783351" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fox-cute-happy-smile-gif-13783351">Fox Cute GIF</a>from <a href="https://tenor.com/search/fox-gifs">Fox GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 #### Includes
 <ul>
    <li>
