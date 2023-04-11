@@ -37,7 +37,10 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 <img src="https://github.com/TYehan/Hosted-Images/blob/main/fox-coffee-unscreen.gif" align="left" height="20%" width="20%">
 <br>
 <p align="left">
-To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains the pdf file👉🏻(questions) and the source file(s)👉🏻(.cpp or .java) for a specific task.<br>
+To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains the pdf file👉🏻(questions) and the source file(s)👉🏻(.cpp or .java) for a specific task.
+</p>
+<br>
+<p>
 If you find this repository helpful, please consider giving it a star!⭐. It helps others discover the repository and encourages me to continue sharing useful resources.
 </p>
 
