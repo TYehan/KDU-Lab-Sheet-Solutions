@@ -4,7 +4,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 <b>(Intake 39 - KDU)</b>.
 </p>
 
-<img src="https://tenor.com/view/fox-cute-happy-smile-gif-13783351.gif" align="right" height="20%" width="20%">
+<img src="https://github.com/TYehan/Hosted-Images/blob/main/fox-cute-unscreen.gif" align="right" height="20%" width="20%">
 
 #### Includes
 <ul>
