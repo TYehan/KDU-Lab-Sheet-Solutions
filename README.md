@@ -27,8 +27,9 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
    </li> -->
 </ul>   
 
----
+
 <br><br>
+---
 
 ## Usage
 
@@ -39,8 +40,9 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
 </p>
 
----
+
 <br><br>
+---
 
 ## Contributing
 
@@ -51,8 +53,9 @@ To use these lab sheets, simply download or clone this repository to your local 
 If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
 </p>
 
----
+
 <br><br>
+---
 
 ## Note
 
@@ -65,4 +68,4 @@ If you have any questions or concerns about this repository, please feel free to
    <img src="https://github.com/TYehan/Hosted-Images/blob/main/fox-sunglasses-unscreen.gif" height="20%" width="20%">
 </p>
 
->>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><
+>>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>><TYehan>
