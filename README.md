@@ -33,7 +33,7 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
 ## Usage
 
 <br>
-<img src="https://tenor.com/view/fox-coffee-smell-feel-it-cute-gif-16230297.gif" align="left" height="20%" width="20%">
+<img src="https://github.com/TYehan/Hosted-Images/blob/main/fox-coffee-unscreen.gif" align="left" height="20%" width="20%">
 <br>
 <p align="right">
 To use these lab sheets, simply download or clone this repository to your local machine. Each lab sheet is contained in a separate directory and contains instructions and exercises for a specific topic.
@@ -45,7 +45,7 @@ To use these lab sheets, simply download or clone this repository to your local 
 ## Contributing
 
 <br>
-<img src="https://tenor.com/view/flower-fox-gif-21485624.gif" align="right" height="20%" width="20%">
+<img src="https://github.com/TYehan/Hosted-Images/blob/main/flower-fox-unscreen.gif" align="right" height="20%" width="20%">
 <br>
 <p align="left">
 If you have your own lab sheets that you'd like to contribute, please feel free to create a pull request with your changes. I'm happy to accept contributions that align with the purpose of this repository.
@@ -62,5 +62,5 @@ If you have any questions or concerns about this repository, please feel free to
 <a href="https://github.com/TYehan"> 👉🏻 TYehan </a>.
 <br>
 <p align="center">
-   <img src="https://tenor.com/view/fox-sunglasses-shades-on-cool-smirk-gif-15664697.gif" height="20%" width="20%">
+   <img src="https://github.com/TYehan/Hosted-Images/blob/main/fox-sunglasses-unscreen.gif" height="20%" width="20%">
 </p>
