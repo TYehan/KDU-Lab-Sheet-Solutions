@@ -18,8 +18,19 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
          <dl>CS1073 - Object Oriented Programming I</dl>
       </ul>
    </li>
-   <!-- <li>
+   <li>
+   <i>
       <b>2nd year</b>
+      <ul>
+         <li><b>1st Semester</b></li>
+            <dl>CS2032 - Object Oriented Programming II</dl>
+            <dl>CS2013 - Data Structures and Algorithms</dl>
+         <!-- <li><b>2nd Semester</b></li> -->
+      </ul>
+   </i>
+   </li>
+   <!-- <li>
+      <b>3rd year</b>
       <ul>
          <li><b>1st Semester</b></li>
          <li><b>2nd Semester</b></li>
