@@ -18,29 +18,12 @@ Welcome to my lab sheets repository! <br>This repository contains lab sheets tha
          <dl>CS1073 - Object Oriented Programming I</dl>
       </ul>
    </li>
-   <li>
-   <i>
-      <b>2nd year</b>
-      <ul>
-         <li><b>1st Semester</b></li>
-            <dl>CS2032 - Object Oriented Programming II<br>
-            CS2013 - Data Structures and Algorithms</dl>
-         <!-- <li><b>2nd Semester</b></li> -->
-      </ul>
-   </i>
-   </li>
-   <!-- <li>
-      <b>3rd year</b>
-      <ul>
-         <li><b>1st Semester</b></li>
-         <li><b>2nd Semester</b></li>
-      </ul>
-   </li> -->
 </ul>   
 
-
 <br><br>
----
+<p align="center">
+⚠️ Answer posting was stopped due to the emergence of ChatGPT😂🙂 ⚠️
+</p>
 
 ## Usage
 
@@ -55,7 +38,7 @@ If you find this repository helpful, please consider giving it a star!⭐. It he
 
 
 <br><br>
----
+
 
 ## Contributing
 
@@ -68,7 +51,6 @@ If you have your own lab sheets that you'd like to contribute, please feel free 
 
 
 <br><br>
----
 
 ## Note
 
