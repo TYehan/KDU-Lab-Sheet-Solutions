@@ -1,4 +1,5 @@
-# Lab sheet Solutions 😌✌🏻
+# Lab sheet Solutions | OOP | DSA 😌✌🏻
+
 <p align="left">
 Welcome to my lab sheets repository! <br>This repository contains lab sheets that I've completed, 
 <b>(Intake 39 - KDU)</b>.
